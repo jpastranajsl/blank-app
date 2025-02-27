@@ -1,0 +1,961 @@
+Date,Category,Description,Amount,Type
+1/9/24,Sales food,,"446,00 Kč",Revenue
+1/9/24,Sales merchandise,,"151,00 Kč",Revenue
+1/9/24,Advertising revenue,,"39,00 Kč",Revenue
+1/9/24,Tips,,"127,00 Kč",Revenue
+1/9/24,Rent,,"3 000,00 Kč",Expense
+1/9/24,Salaries & Wages,,"5 703,00 Kč",Expense
+1/9/24,Marketing,,"0,00 Kč",Expense
+1/9/24,Payment processing fees,,"28,00 Kč",Expense
+1/9/24,Food supplies VC,,"685,00 Kč",Expense
+1/9/24,Packaging VC,,"54,00 Kč",Expense
+2/9/24,Sales food,,"780,00 Kč",Revenue
+2/9/24,Sales merchandise,,"183,00 Kč",Revenue
+2/9/24,Advertising revenue,,"35,00 Kč",Revenue
+2/9/24,Tips,,"73,00 Kč",Revenue
+2/9/24,Marketing,,"0,00 Kč",Expense
+2/9/24,Payment processing fees,,"82,00 Kč",Expense
+2/9/24,Food supplies VC,,"397,00 Kč",Expense
+2/9/24,Packaging VC,,"84,00 Kč",Expense
+3/9/24,Sales food,,"334,00 Kč",Revenue
+3/9/24,Sales merchandise,,"41,00 Kč",Revenue
+3/9/24,Advertising revenue,,"7,00 Kč",Revenue
+3/9/24,Tips,,"73,00 Kč",Revenue
+3/9/24,Marketing,,"428,00 Kč",Expense
+3/9/24,Payment processing fees,,"77,00 Kč",Expense
+3/9/24,Food supplies VC,,"692,00 Kč",Expense
+3/9/24,Packaging VC,,"79,00 Kč",Expense
+4/9/24,Sales food,,"902,00 Kč",Revenue
+4/9/24,Sales merchandise,,"138,00 Kč",Revenue
+4/9/24,Advertising revenue,,"31,00 Kč",Revenue
+4/9/24,Tips,,"128,00 Kč",Revenue
+4/9/24,Marketing,,"0,00 Kč",Expense
+4/9/24,Payment processing fees,,"50,00 Kč",Expense
+4/9/24,Food supplies VC,,"384,00 Kč",Expense
+4/9/24,Packaging VC,,"199,00 Kč",Expense
+5/9/24,Sales food,,"757,00 Kč",Revenue
+5/9/24,Sales merchandise,,"159,00 Kč",Revenue
+5/9/24,Advertising revenue,,"28,00 Kč",Revenue
+5/9/24,Tips,,"31,00 Kč",Revenue
+5/9/24,Marketing,,"417,00 Kč",Expense
+5/9/24,Payment processing fees,,"68,00 Kč",Expense
+5/9/24,Food supplies VC,,"716,00 Kč",Expense
+5/9/24,Packaging VC,,"71,00 Kč",Expense
+6/9/24,Sales food,,"391,00 Kč",Revenue
+6/9/24,Sales merchandise,,"177,00 Kč",Revenue
+6/9/24,Advertising revenue,,"41,00 Kč",Revenue
+6/9/24,Tips,,"102,00 Kč",Revenue
+6/9/24,Marketing,,"495,00 Kč",Expense
+6/9/24,Payment processing fees,,"66,00 Kč",Expense
+6/9/24,Food supplies VC,,"646,00 Kč",Expense
+6/9/24,Packaging VC,,"259,00 Kč",Expense
+7/9/24,Sales food,,"410,00 Kč",Revenue
+7/9/24,Sales merchandise,,"190,00 Kč",Revenue
+7/9/24,Advertising revenue,,"3,00 Kč",Revenue
+7/9/24,Tips,,"143,00 Kč",Revenue
+7/9/24,Marketing,,"0,00 Kč",Expense
+7/9/24,Payment processing fees,,"81,00 Kč",Expense
+7/9/24,Food supplies VC,,"493,00 Kč",Expense
+7/9/24,Packaging VC,,"244,00 Kč",Expense
+8/9/24,Sales food,,"543,00 Kč",Revenue
+8/9/24,Sales merchandise,,"165,00 Kč",Revenue
+8/9/24,Advertising revenue,,"3,00 Kč",Revenue
+8/9/24,Tips,,"33,00 Kč",Revenue
+8/9/24,Marketing,,"0,00 Kč",Expense
+8/9/24,Payment processing fees,,"98,00 Kč",Expense
+8/9/24,Food supplies VC,,"702,00 Kč",Expense
+8/9/24,Packaging VC,,"199,00 Kč",Expense
+9/9/24,Sales food,,"722,00 Kč",Revenue
+9/9/24,Sales merchandise,,"39,00 Kč",Revenue
+9/9/24,Advertising revenue,,"16,00 Kč",Revenue
+9/9/24,Tips,,"75,00 Kč",Revenue
+9/9/24,Marketing,,"0,00 Kč",Expense
+9/9/24,Payment processing fees,,"29,00 Kč",Expense
+9/9/24,Food supplies VC,,"592,00 Kč",Expense
+9/9/24,Packaging VC,,"224,00 Kč",Expense
+10/9/24,Sales food,,"906,00 Kč",Revenue
+10/9/24,Sales merchandise,,"163,00 Kč",Revenue
+10/9/24,Advertising revenue,,"0,00 Kč",Revenue
+10/9/24,Tips,,"114,00 Kč",Revenue
+10/9/24,Marketing,,"0,00 Kč",Expense
+10/9/24,Loan payments,,"1 000,00 Kč",Expense
+10/9/24,Payment processing fees,,"67,00 Kč",Expense
+10/9/24,Food supplies VC,,"331,00 Kč",Expense
+10/9/24,Packaging VC,,"156,00 Kč",Expense
+11/9/24,Sales food,,"782,00 Kč",Revenue
+11/9/24,Sales merchandise,,"52,00 Kč",Revenue
+11/9/24,Advertising revenue,,"30,00 Kč",Revenue
+11/9/24,Tips,,"83,00 Kč",Revenue
+11/9/24,Marketing,,"375,00 Kč",Expense
+11/9/24,Payment processing fees,,"55,00 Kč",Expense
+11/9/24,Food supplies VC,,"594,00 Kč",Expense
+11/9/24,Packaging VC,,"151,00 Kč",Expense
+12/9/24,Sales food,,"821,00 Kč",Revenue
+12/9/24,Sales merchandise,,"82,00 Kč",Revenue
+12/9/24,Advertising revenue,,"43,00 Kč",Revenue
+12/9/24,Tips,,"108,00 Kč",Revenue
+12/9/24,Marketing,,"0,00 Kč",Expense
+12/9/24,Payment processing fees,,"61,00 Kč",Expense
+12/9/24,Food supplies VC,,"236,00 Kč",Expense
+12/9/24,Packaging VC,,"161,00 Kč",Expense
+13/9/24,Sales food,,"894,00 Kč",Revenue
+13/9/24,Sales merchandise,,"168,00 Kč",Revenue
+13/9/24,Advertising revenue,,"4,00 Kč",Revenue
+13/9/24,Tips,,"66,00 Kč",Revenue
+13/9/24,Marketing,,"0,00 Kč",Expense
+13/9/24,Payment processing fees,,"72,00 Kč",Expense
+13/9/24,Food supplies VC,,"514,00 Kč",Expense
+13/9/24,Packaging VC,,"187,00 Kč",Expense
+14/9/24,Sales food,,"910,00 Kč",Revenue
+14/9/24,Sales merchandise,,"95,00 Kč",Revenue
+14/9/24,Advertising revenue,,"40,00 Kč",Revenue
+14/9/24,Tips,,"58,00 Kč",Revenue
+14/9/24,Marketing,,"0,00 Kč",Expense
+14/9/24,Payment processing fees,,"79,00 Kč",Expense
+14/9/24,Food supplies VC,,"284,00 Kč",Expense
+14/9/24,Packaging VC,,"192,00 Kč",Expense
+15/9/24,Sales food,,"896,00 Kč",Revenue
+15/9/24,Sales merchandise,,"131,00 Kč",Revenue
+15/9/24,Advertising revenue,,"34,00 Kč",Revenue
+15/9/24,Tips,,"128,00 Kč",Revenue
+15/9/24,Utilities,,"617,00 Kč",Expense
+15/9/24,Marketing,,"0,00 Kč",Expense
+15/9/24,Payment processing fees,,"99,00 Kč",Expense
+15/9/24,Food supplies VC,,"566,00 Kč",Expense
+15/9/24,Packaging VC,,"109,00 Kč",Expense
+16/9/24,Sales food,,"437,00 Kč",Revenue
+16/9/24,Sales merchandise,,"180,00 Kč",Revenue
+16/9/24,Advertising revenue,,"18,00 Kč",Revenue
+16/9/24,Tips,,"110,00 Kč",Revenue
+16/9/24,Marketing,,"291,00 Kč",Expense
+16/9/24,Payment processing fees,,"56,00 Kč",Expense
+16/9/24,Food supplies VC,,"544,00 Kč",Expense
+16/9/24,Packaging VC,,"95,00 Kč",Expense
+17/9/24,Sales food,,"920,00 Kč",Revenue
+17/9/24,Sales merchandise,,"126,00 Kč",Revenue
+17/9/24,Advertising revenue,,"14,00 Kč",Revenue
+17/9/24,Tips,,"43,00 Kč",Revenue
+17/9/24,Marketing,,"0,00 Kč",Expense
+17/9/24,Payment processing fees,,"56,00 Kč",Expense
+17/9/24,Food supplies VC,,"385,00 Kč",Expense
+17/9/24,Packaging VC,,"210,00 Kč",Expense
+18/9/24,Sales food,,"706,00 Kč",Revenue
+18/9/24,Sales merchandise,,"76,00 Kč",Revenue
+18/9/24,Advertising revenue,,"5,00 Kč",Revenue
+18/9/24,Tips,,"33,00 Kč",Revenue
+18/9/24,Marketing,,"192,00 Kč",Expense
+18/9/24,Payment processing fees,,"20,00 Kč",Expense
+18/9/24,Food supplies VC,,"659,00 Kč",Expense
+18/9/24,Packaging VC,,"95,00 Kč",Expense
+19/9/24,Sales food,,"569,00 Kč",Revenue
+19/9/24,Sales merchandise,,"22,00 Kč",Revenue
+19/9/24,Advertising revenue,,"19,00 Kč",Revenue
+19/9/24,Tips,,"121,00 Kč",Revenue
+19/9/24,Marketing,,"0,00 Kč",Expense
+19/9/24,Payment processing fees,,"23,00 Kč",Expense
+19/9/24,Food supplies VC,,"666,00 Kč",Expense
+19/9/24,Packaging VC,,"130,00 Kč",Expense
+20/9/24,Sales food,,"937,00 Kč",Revenue
+20/9/24,Sales merchandise,,"62,00 Kč",Revenue
+20/9/24,Advertising revenue,,"16,00 Kč",Revenue
+20/9/24,Tips,,"54,00 Kč",Revenue
+20/9/24,Marketing,,"292,00 Kč",Expense
+20/9/24,Payment processing fees,,"23,00 Kč",Expense
+20/9/24,Food supplies VC,,"260,00 Kč",Expense
+20/9/24,Packaging VC,,"167,00 Kč",Expense
+21/9/24,Sales food,,"558,00 Kč",Revenue
+21/9/24,Sales merchandise,,"97,00 Kč",Revenue
+21/9/24,Advertising revenue,,"25,00 Kč",Revenue
+21/9/24,Tips,,"96,00 Kč",Revenue
+21/9/24,Marketing,,"400,00 Kč",Expense
+21/9/24,Payment processing fees,,"52,00 Kč",Expense
+21/9/24,Food supplies VC,,"570,00 Kč",Expense
+21/9/24,Packaging VC,,"53,00 Kč",Expense
+22/9/24,Sales food,,"340,00 Kč",Revenue
+22/9/24,Sales merchandise,,"48,00 Kč",Revenue
+22/9/24,Advertising revenue,,"23,00 Kč",Revenue
+22/9/24,Tips,,"79,00 Kč",Revenue
+22/9/24,Marketing,,"155,00 Kč",Expense
+22/9/24,Payment processing fees,,"32,00 Kč",Expense
+22/9/24,Food supplies VC,,"331,00 Kč",Expense
+22/9/24,Packaging VC,,"253,00 Kč",Expense
+23/9/24,Sales food,,"814,00 Kč",Revenue
+23/9/24,Sales merchandise,,"138,00 Kč",Revenue
+23/9/24,Advertising revenue,,"34,00 Kč",Revenue
+23/9/24,Tips,,"26,00 Kč",Revenue
+23/9/24,Marketing,,"0,00 Kč",Expense
+23/9/24,Payment processing fees,,"94,00 Kč",Expense
+23/9/24,Food supplies VC,,"410,00 Kč",Expense
+23/9/24,Packaging VC,,"221,00 Kč",Expense
+24/9/24,Sales food,,"427,00 Kč",Revenue
+24/9/24,Sales merchandise,,"55,00 Kč",Revenue
+24/9/24,Advertising revenue,,"21,00 Kč",Revenue
+24/9/24,Tips,,"67,00 Kč",Revenue
+24/9/24,Marketing,,"0,00 Kč",Expense
+24/9/24,Payment processing fees,,"22,00 Kč",Expense
+24/9/24,Food supplies VC,,"323,00 Kč",Expense
+24/9/24,Packaging VC,,"62,00 Kč",Expense
+25/9/24,Sales food,,"538,00 Kč",Revenue
+25/9/24,Sales merchandise,,"65,00 Kč",Revenue
+25/9/24,Advertising revenue,,"46,00 Kč",Revenue
+25/9/24,Tips,,"60,00 Kč",Revenue
+25/9/24,Marketing,,"115,00 Kč",Expense
+25/9/24,Payment processing fees,,"82,00 Kč",Expense
+25/9/24,Food supplies VC,,"211,00 Kč",Expense
+25/9/24,Packaging VC,,"103,00 Kč",Expense
+26/9/24,Sales food,,"339,00 Kč",Revenue
+26/9/24,Sales merchandise,,"171,00 Kč",Revenue
+26/9/24,Advertising revenue,,"36,00 Kč",Revenue
+26/9/24,Tips,,"111,00 Kč",Revenue
+26/9/24,Marketing,,"0,00 Kč",Expense
+26/9/24,Payment processing fees,,"81,00 Kč",Expense
+26/9/24,Food supplies VC,,"543,00 Kč",Expense
+26/9/24,Packaging VC,,"97,00 Kč",Expense
+27/9/24,Sales food,,"929,00 Kč",Revenue
+27/9/24,Sales merchandise,,"47,00 Kč",Revenue
+27/9/24,Advertising revenue,,"23,00 Kč",Revenue
+27/9/24,Tips,,"99,00 Kč",Revenue
+27/9/24,Marketing,,"366,00 Kč",Expense
+27/9/24,Payment processing fees,,"49,00 Kč",Expense
+27/9/24,Food supplies VC,,"523,00 Kč",Expense
+27/9/24,Packaging VC,,"144,00 Kč",Expense
+28/9/24,Sales food,,"425,00 Kč",Revenue
+28/9/24,Sales merchandise,,"124,00 Kč",Revenue
+28/9/24,Advertising revenue,,"18,00 Kč",Revenue
+28/9/24,Tips,,"20,00 Kč",Revenue
+28/9/24,Marketing,,"447,00 Kč",Expense
+28/9/24,Payment processing fees,,"41,00 Kč",Expense
+28/9/24,Food supplies VC,,"263,00 Kč",Expense
+28/9/24,Packaging VC,,"172,00 Kč",Expense
+29/9/24,Sales food,,"920,00 Kč",Revenue
+29/9/24,Sales merchandise,,"186,00 Kč",Revenue
+29/9/24,Advertising revenue,,"0,00 Kč",Revenue
+29/9/24,Tips,,"116,00 Kč",Revenue
+29/9/24,Marketing,,"0,00 Kč",Expense
+29/9/24,Payment processing fees,,"21,00 Kč",Expense
+29/9/24,Food supplies VC,,"691,00 Kč",Expense
+29/9/24,Packaging VC,,"137,00 Kč",Expense
+30/9/24,Sales food,,"971,00 Kč",Revenue
+30/9/24,Sales merchandise,,"174,00 Kč",Revenue
+30/9/24,Advertising revenue,,"30,00 Kč",Revenue
+30/9/24,Tips,,"54,00 Kč",Revenue
+30/9/24,Marketing,,"317,00 Kč",Expense
+30/9/24,Payment processing fees,,"86,00 Kč",Expense
+30/9/24,Food supplies VC,,"240,00 Kč",Expense
+30/9/24,Packaging VC,,"251,00 Kč",Expense
+1/10/24,Sales food,,"553,00 Kč",Revenue
+1/10/24,Sales merchandise,,"178,00 Kč",Revenue
+1/10/24,Advertising revenue,,"31,00 Kč",Revenue
+1/10/24,Tips,,"45,00 Kč",Revenue
+1/10/24,Rent,,"3 000,00 Kč",Expense
+1/10/24,Salaries & Wages,,"5 450,00 Kč",Expense
+1/10/24,Marketing,,"0,00 Kč",Expense
+1/10/24,Payment processing fees,,"81,00 Kč",Expense
+1/10/24,Food supplies VC,,"466,00 Kč",Expense
+1/10/24,Packaging VC,,"214,00 Kč",Expense
+2/10/24,Sales food,,"995,00 Kč",Revenue
+2/10/24,Sales merchandise,,"132,00 Kč",Revenue
+2/10/24,Advertising revenue,,"6,00 Kč",Revenue
+2/10/24,Tips,,"149,00 Kč",Revenue
+2/10/24,Marketing,,"0,00 Kč",Expense
+2/10/24,Payment processing fees,,"99,00 Kč",Expense
+2/10/24,Food supplies VC,,"501,00 Kč",Expense
+2/10/24,Packaging VC,,"290,00 Kč",Expense
+3/10/24,Sales food,,"555,00 Kč",Revenue
+3/10/24,Sales merchandise,,"40,00 Kč",Revenue
+3/10/24,Advertising revenue,,"7,00 Kč",Revenue
+3/10/24,Tips,,"68,00 Kč",Revenue
+3/10/24,Marketing,,"0,00 Kč",Expense
+3/10/24,Payment processing fees,,"46,00 Kč",Expense
+3/10/24,Food supplies VC,,"662,00 Kč",Expense
+3/10/24,Packaging VC,,"98,00 Kč",Expense
+4/10/24,Sales food,,"933,00 Kč",Revenue
+4/10/24,Sales merchandise,,"140,00 Kč",Revenue
+4/10/24,Advertising revenue,,"20,00 Kč",Revenue
+4/10/24,Tips,,"70,00 Kč",Revenue
+4/10/24,Marketing,,"159,00 Kč",Expense
+4/10/24,Payment processing fees,,"36,00 Kč",Expense
+4/10/24,Food supplies VC,,"796,00 Kč",Expense
+4/10/24,Packaging VC,,"231,00 Kč",Expense
+4/10/24,Sales food,,"850,00 Kč",Revenue
+4/10/24,Sales merchandise,,"126,00 Kč",Revenue
+4/10/24,Advertising revenue,,"30,00 Kč",Revenue
+4/10/24,Tips,,"79,00 Kč",Revenue
+4/10/24,Marketing,,"0,00 Kč",Expense
+4/10/24,Payment processing fees,,"67,00 Kč",Expense
+4/10/24,Food supplies VC,,"371,00 Kč",Expense
+4/10/24,Packaging VC,,"135,00 Kč",Expense
+4/10/24,Sales food,,"915,00 Kč",Revenue
+4/10/24,Sales merchandise,,"68,00 Kč",Revenue
+4/10/24,Advertising revenue,,"11,00 Kč",Revenue
+4/10/24,Tips,,"67,00 Kč",Revenue
+4/10/24,Marketing,,"106,00 Kč",Expense
+4/10/24,Payment processing fees,,"43,00 Kč",Expense
+4/10/24,Food supplies VC,,"621,00 Kč",Expense
+4/10/24,Packaging VC,,"123,00 Kč",Expense
+4/10/24,Sales food,,"599,00 Kč",Revenue
+4/10/24,Sales merchandise,,"33,00 Kč",Revenue
+4/10/24,Advertising revenue,,"40,00 Kč",Revenue
+4/10/24,Tips,,"71,00 Kč",Revenue
+4/10/24,Marketing,,"0,00 Kč",Expense
+4/10/24,Payment processing fees,,"89,00 Kč",Expense
+4/10/24,Food supplies VC,,"354,00 Kč",Expense
+4/10/24,Packaging VC,,"219,00 Kč",Expense
+4/10/24,Sales food,,"589,00 Kč",Revenue
+4/10/24,Sales merchandise,,"69,00 Kč",Revenue
+4/10/24,Advertising revenue,,"7,00 Kč",Revenue
+4/10/24,Tips,,"35,00 Kč",Revenue
+4/10/24,Marketing,,"0,00 Kč",Expense
+4/10/24,Payment processing fees,,"60,00 Kč",Expense
+4/10/24,Food supplies VC,,"738,00 Kč",Expense
+4/10/24,Packaging VC,,"174,00 Kč",Expense
+4/10/24,Sales food,,"551,00 Kč",Revenue
+4/10/24,Sales merchandise,,"146,00 Kč",Revenue
+4/10/24,Advertising revenue,,"9,00 Kč",Revenue
+4/10/24,Tips,,"105,00 Kč",Revenue
+4/10/24,Marketing,,"0,00 Kč",Expense
+4/10/24,Payment processing fees,,"52,00 Kč",Expense
+4/10/24,Food supplies VC,,"734,00 Kč",Expense
+4/10/24,Packaging VC,,"142,00 Kč",Expense
+10/10/24,Sales food,,"918,00 Kč",Revenue
+10/10/24,Sales merchandise,,"120,00 Kč",Revenue
+10/10/24,Advertising revenue,,"32,00 Kč",Revenue
+10/10/24,Tips,,"73,00 Kč",Revenue
+10/10/24,Marketing,,"0,00 Kč",Expense
+10/10/24,Loan payments,,"1 000,00 Kč",Expense
+10/10/24,Payment processing fees,,"90,00 Kč",Expense
+10/10/24,Food supplies VC,,"306,00 Kč",Expense
+10/10/24,Packaging VC,,"195,00 Kč",Expense
+11/10/24,Sales food,,"937,00 Kč",Revenue
+11/10/24,Sales merchandise,,"69,00 Kč",Revenue
+11/10/24,Advertising revenue,,"35,00 Kč",Revenue
+11/10/24,Tips,,"98,00 Kč",Revenue
+11/10/24,Marketing,,"388,00 Kč",Expense
+11/10/24,Payment processing fees,,"32,00 Kč",Expense
+11/10/24,Food supplies VC,,"690,00 Kč",Expense
+11/10/24,Packaging VC,,"287,00 Kč",Expense
+11/10/24,Sales food,,"883,00 Kč",Revenue
+11/10/24,Sales merchandise,,"189,00 Kč",Revenue
+11/10/24,Advertising revenue,,"9,00 Kč",Revenue
+11/10/24,Tips,,"148,00 Kč",Revenue
+11/10/24,Marketing,,"128,00 Kč",Expense
+11/10/24,Payment processing fees,,"78,00 Kč",Expense
+11/10/24,Food supplies VC,,"604,00 Kč",Expense
+11/10/24,Packaging VC,,"158,00 Kč",Expense
+13/10/24,Sales food,,"999,00 Kč",Revenue
+13/10/24,Sales merchandise,,"27,00 Kč",Revenue
+13/10/24,Advertising revenue,,"31,00 Kč",Revenue
+13/10/24,Tips,,"42,00 Kč",Revenue
+13/10/24,Marketing,,"0,00 Kč",Expense
+13/10/24,Payment processing fees,,"85,00 Kč",Expense
+13/10/24,Food supplies VC,,"494,00 Kč",Expense
+13/10/24,Packaging VC,,"244,00 Kč",Expense
+13/10/24,Sales food,,"800,00 Kč",Revenue
+13/10/24,Sales merchandise,,"87,00 Kč",Revenue
+13/10/24,Advertising revenue,,"30,00 Kč",Revenue
+13/10/24,Tips,,"92,00 Kč",Revenue
+13/10/24,Marketing,,"0,00 Kč",Expense
+13/10/24,Payment processing fees,,"60,00 Kč",Expense
+13/10/24,Food supplies VC,,"377,00 Kč",Expense
+13/10/24,Packaging VC,,"258,00 Kč",Expense
+13/10/24,Sales food,,"967,00 Kč",Revenue
+13/10/24,Sales merchandise,,"52,00 Kč",Revenue
+13/10/24,Advertising revenue,,"5,00 Kč",Revenue
+13/10/24,Tips,,"122,00 Kč",Revenue
+13/10/24,Utilities,,"689,00 Kč",Expense
+13/10/24,Marketing,,"0,00 Kč",Expense
+13/10/24,Payment processing fees,,"66,00 Kč",Expense
+13/10/24,Food supplies VC,,"351,00 Kč",Expense
+13/10/24,Packaging VC,,"283,00 Kč",Expense
+13/10/24,Sales food,,"853,00 Kč",Revenue
+13/10/24,Sales merchandise,,"120,00 Kč",Revenue
+13/10/24,Advertising revenue,,"21,00 Kč",Revenue
+13/10/24,Tips,,"146,00 Kč",Revenue
+13/10/24,Marketing,,"0,00 Kč",Expense
+13/10/24,Payment processing fees,,"29,00 Kč",Expense
+13/10/24,Food supplies VC,,"287,00 Kč",Expense
+13/10/24,Packaging VC,,"168,00 Kč",Expense
+17/10/24,Sales food,,"610,00 Kč",Revenue
+17/10/24,Sales merchandise,,"34,00 Kč",Revenue
+17/10/24,Advertising revenue,,"42,00 Kč",Revenue
+17/10/24,Tips,,"35,00 Kč",Revenue
+17/10/24,Marketing,,"0,00 Kč",Expense
+17/10/24,Payment processing fees,,"98,00 Kč",Expense
+17/10/24,Food supplies VC,,"308,00 Kč",Expense
+17/10/24,Packaging VC,,"153,00 Kč",Expense
+17/10/24,Sales food,,"410,00 Kč",Revenue
+17/10/24,Sales merchandise,,"104,00 Kč",Revenue
+17/10/24,Advertising revenue,,"48,00 Kč",Revenue
+17/10/24,Tips,,"42,00 Kč",Revenue
+17/10/24,Marketing,,"467,00 Kč",Expense
+17/10/24,Payment processing fees,,"22,00 Kč",Expense
+17/10/24,Food supplies VC,,"342,00 Kč",Expense
+17/10/24,Packaging VC,,"122,00 Kč",Expense
+17/10/24,Sales food,,"464,00 Kč",Revenue
+17/10/24,Sales merchandise,,"25,00 Kč",Revenue
+17/10/24,Advertising revenue,,"49,00 Kč",Revenue
+17/10/24,Tips,,"140,00 Kč",Revenue
+17/10/24,Marketing,,"0,00 Kč",Expense
+17/10/24,Payment processing fees,,"91,00 Kč",Expense
+17/10/24,Food supplies VC,,"498,00 Kč",Expense
+17/10/24,Packaging VC,,"283,00 Kč",Expense
+20/10/24,Sales food,,"726,00 Kč",Revenue
+20/10/24,Sales merchandise,,"65,00 Kč",Revenue
+20/10/24,Advertising revenue,,"2,00 Kč",Revenue
+20/10/24,Tips,,"112,00 Kč",Revenue
+20/10/24,Marketing,,"0,00 Kč",Expense
+20/10/24,Payment processing fees,,"86,00 Kč",Expense
+20/10/24,Food supplies VC,,"409,00 Kč",Expense
+20/10/24,Packaging VC,,"266,00 Kč",Expense
+20/10/24,Sales food,,"675,00 Kč",Revenue
+20/10/24,Sales merchandise,,"164,00 Kč",Revenue
+20/10/24,Advertising revenue,,"35,00 Kč",Revenue
+20/10/24,Tips,,"65,00 Kč",Revenue
+20/10/24,Marketing,,"0,00 Kč",Expense
+20/10/24,Payment processing fees,,"33,00 Kč",Expense
+20/10/24,Food supplies VC,,"466,00 Kč",Expense
+20/10/24,Packaging VC,,"278,00 Kč",Expense
+20/10/24,Sales food,,"689,00 Kč",Revenue
+20/10/24,Sales merchandise,,"183,00 Kč",Revenue
+20/10/24,Advertising revenue,,"34,00 Kč",Revenue
+20/10/24,Tips,,"46,00 Kč",Revenue
+20/10/24,Marketing,,"0,00 Kč",Expense
+20/10/24,Payment processing fees,,"83,00 Kč",Expense
+20/10/24,Food supplies VC,,"237,00 Kč",Expense
+20/10/24,Packaging VC,,"77,00 Kč",Expense
+20/10/24,Sales food,,"505,00 Kč",Revenue
+20/10/24,Sales merchandise,,"141,00 Kč",Revenue
+20/10/24,Advertising revenue,,"40,00 Kč",Revenue
+20/10/24,Tips,,"85,00 Kč",Revenue
+20/10/24,Marketing,,"0,00 Kč",Expense
+20/10/24,Payment processing fees,,"78,00 Kč",Expense
+20/10/24,Food supplies VC,,"535,00 Kč",Expense
+24/10/24,Packaging VC,,"188,00 Kč",Expense
+24/10/24,Sales food,,"687,00 Kč",Revenue
+24/10/24,Sales merchandise,,"62,00 Kč",Revenue
+24/10/24,Advertising revenue,,"42,00 Kč",Revenue
+24/10/24,Tips,,"56,00 Kč",Revenue
+24/10/24,Marketing,,"0,00 Kč",Expense
+24/10/24,Payment processing fees,,"22,00 Kč",Expense
+24/10/24,Food supplies VC,,"598,00 Kč",Expense
+24/10/24,Packaging VC,,"105,00 Kč",Expense
+24/10/24,Sales food,,"428,00 Kč",Revenue
+24/10/24,Sales merchandise,,"132,00 Kč",Revenue
+24/10/24,Advertising revenue,,"35,00 Kč",Revenue
+24/10/24,Tips,,"89,00 Kč",Revenue
+24/10/24,Marketing,,"483,00 Kč",Expense
+24/10/24,Payment processing fees,,"56,00 Kč",Expense
+24/10/24,Food supplies VC,,"571,00 Kč",Expense
+24/10/24,Packaging VC,,"78,00 Kč",Expense
+24/10/24,Sales food,,"547,00 Kč",Revenue
+24/10/24,Sales merchandise,,"70,00 Kč",Revenue
+24/10/24,Advertising revenue,,"0,00 Kč",Revenue
+24/10/24,Tips,,"129,00 Kč",Revenue
+24/10/24,Marketing,,"0,00 Kč",Expense
+24/10/24,Payment processing fees,,"96,00 Kč",Expense
+24/10/24,Food supplies VC,,"207,00 Kč",Expense
+24/10/24,Packaging VC,,"65,00 Kč",Expense
+24/10/24,Sales food,,"404,00 Kč",Revenue
+24/10/24,Sales merchandise,,"88,00 Kč",Revenue
+24/10/24,Advertising revenue,,"16,00 Kč",Revenue
+24/10/24,Tips,,"58,00 Kč",Revenue
+24/10/24,Marketing,,"0,00 Kč",Expense
+24/10/24,Payment processing fees,,"69,00 Kč",Expense
+24/10/24,Food supplies VC,,"308,00 Kč",Expense
+24/10/24,Packaging VC,,"193,00 Kč",Expense
+24/10/24,Sales food,,"353,00 Kč",Revenue
+24/10/24,Sales merchandise,,"64,00 Kč",Revenue
+24/10/24,Advertising revenue,,"0,00 Kč",Revenue
+24/10/24,Tips,,"92,00 Kč",Revenue
+24/10/24,Marketing,,"0,00 Kč",Expense
+24/10/24,Payment processing fees,,"87,00 Kč",Expense
+24/10/24,Food supplies VC,,"503,00 Kč",Expense
+24/10/24,Packaging VC,,"233,00 Kč",Expense
+24/10/24,Sales food,,"562,00 Kč",Revenue
+24/10/24,Sales merchandise,,"50,00 Kč",Revenue
+24/10/24,Advertising revenue,,"23,00 Kč",Revenue
+24/10/24,Tips,,"61,00 Kč",Revenue
+24/10/24,Marketing,,"0,00 Kč",Expense
+24/10/24,Payment processing fees,,"91,00 Kč",Expense
+24/10/24,Food supplies VC,,"307,00 Kč",Expense
+24/10/24,Packaging VC,,"245,00 Kč",Expense
+24/10/24,Sales food,,"818,00 Kč",Revenue
+24/10/24,Sales merchandise,,"183,00 Kč",Revenue
+24/10/24,Advertising revenue,,"1,00 Kč",Revenue
+24/10/24,Tips,,"49,00 Kč",Revenue
+24/10/24,Marketing,,"0,00 Kč",Expense
+24/10/24,Payment processing fees,,"37,00 Kč",Expense
+24/10/24,Food supplies VC,,"249,00 Kč",Expense
+31/10/24,Packaging VC,,"212,00 Kč",Expense
+31/10/24,Sales food,,"576,00 Kč",Revenue
+31/10/24,Sales merchandise,,"174,00 Kč",Revenue
+31/10/24,Advertising revenue,,"26,00 Kč",Revenue
+31/10/24,Tips,,"116,00 Kč",Revenue
+31/10/24,Marketing,,"317,00 Kč",Expense
+31/10/24,Payment processing fees,,"94,00 Kč",Expense
+31/10/24,Food supplies VC,,"416,00 Kč",Expense
+31/10/24,Packaging VC,,"266,00 Kč",Expense
+1/11/24,Sales food,,"575,00 Kč",Revenue
+1/11/24,Sales merchandise,,"135,00 Kč",Revenue
+1/11/24,Advertising revenue,,"24,00 Kč",Revenue
+1/11/24,Tips,,"120,00 Kč",Revenue
+1/11/24,Rent,,"3 000,00 Kč",Expense
+1/11/24,Salaries & Wages,,"5 647,00 Kč",Expense
+1/11/24,Marketing,,"384,00 Kč",Expense
+1/11/24,Payment processing fees,,"90,00 Kč",Expense
+1/11/24,Food supplies VC,,"543,00 Kč",Expense
+1/11/24,Packaging VC,,"211,00 Kč",Expense
+5/11/24,Sales food,,"632,00 Kč",Revenue
+5/11/24,Sales merchandise,,"162,00 Kč",Revenue
+5/11/24,Advertising revenue,,"40,00 Kč",Revenue
+5/11/24,Tips,,"143,00 Kč",Revenue
+5/11/24,Marketing,,"0,00 Kč",Expense
+5/11/24,Payment processing fees,,"21,00 Kč",Expense
+5/11/24,Food supplies VC,,"664,00 Kč",Expense
+5/11/24,Packaging VC,,"82,00 Kč",Expense
+5/11/24,Sales food,,"876,00 Kč",Revenue
+5/11/24,Sales merchandise,,"77,00 Kč",Revenue
+5/11/24,Advertising revenue,,"41,00 Kč",Revenue
+5/11/24,Tips,,"42,00 Kč",Revenue
+5/11/24,Marketing,,"326,00 Kč",Expense
+5/11/24,Payment processing fees,,"53,00 Kč",Expense
+5/11/24,Food supplies VC,,"324,00 Kč",Expense
+5/11/24,Packaging VC,,"94,00 Kč",Expense
+5/11/24,Sales food,,"758,00 Kč",Revenue
+5/11/24,Sales merchandise,,"61,00 Kč",Revenue
+5/11/24,Advertising revenue,,"16,00 Kč",Revenue
+5/11/24,Tips,,"22,00 Kč",Revenue
+5/11/24,Marketing,,"495,00 Kč",Expense
+5/11/24,Payment processing fees,,"81,00 Kč",Expense
+5/11/24,Food supplies VC,,"527,00 Kč",Expense
+5/11/24,Packaging VC,,"236,00 Kč",Expense
+5/11/24,Sales food,,"377,00 Kč",Revenue
+5/11/24,Sales merchandise,,"27,00 Kč",Revenue
+5/11/24,Advertising revenue,,"29,00 Kč",Revenue
+5/11/24,Tips,,"146,00 Kč",Revenue
+5/11/24,Marketing,,"0,00 Kč",Expense
+5/11/24,Payment processing fees,,"73,00 Kč",Expense
+5/11/24,Food supplies VC,,"230,00 Kč",Expense
+5/11/24,Packaging VC,,"143,00 Kč",Expense
+14/11/24,Sales food,,"657,00 Kč",Revenue
+14/11/24,Sales merchandise,,"154,00 Kč",Revenue
+14/11/24,Advertising revenue,,"43,00 Kč",Revenue
+14/11/24,Tips,,"133,00 Kč",Revenue
+14/11/24,Marketing,,"0,00 Kč",Expense
+14/11/24,Payment processing fees,,"87,00 Kč",Expense
+14/11/24,Food supplies VC,,"574,00 Kč",Expense
+14/11/24,Packaging VC,,"182,00 Kč",Expense
+14/11/24,Sales food,,"943,00 Kč",Revenue
+14/11/24,Sales merchandise,,"47,00 Kč",Revenue
+14/11/24,Advertising revenue,,"41,00 Kč",Revenue
+14/11/24,Tips,,"132,00 Kč",Revenue
+14/11/24,Marketing,,"0,00 Kč",Expense
+14/11/24,Payment processing fees,,"34,00 Kč",Expense
+14/11/24,Food supplies VC,,"263,00 Kč",Expense
+14/11/24,Packaging VC,,"220,00 Kč",Expense
+14/11/24,Sales food,,"395,00 Kč",Revenue
+14/11/24,Sales merchandise,,"42,00 Kč",Revenue
+14/11/24,Advertising revenue,,"34,00 Kč",Revenue
+14/11/24,Tips,,"36,00 Kč",Revenue
+14/11/24,Marketing,,"0,00 Kč",Expense
+14/11/24,Payment processing fees,,"57,00 Kč",Expense
+14/11/24,Food supplies VC,,"777,00 Kč",Expense
+14/11/24,Packaging VC,,"214,00 Kč",Expense
+14/11/24,Sales food,,"544,00 Kč",Revenue
+14/11/24,Sales merchandise,,"23,00 Kč",Revenue
+14/11/24,Advertising revenue,,"0,00 Kč",Revenue
+14/11/24,Tips,,"51,00 Kč",Revenue
+14/11/24,Marketing,,"297,00 Kč",Expense
+14/11/24,Payment processing fees,,"33,00 Kč",Expense
+14/11/24,Food supplies VC,,"551,00 Kč",Expense
+14/11/24,Packaging VC,,"92,00 Kč",Expense
+14/11/24,Sales food,,"638,00 Kč",Revenue
+14/11/24,Sales merchandise,,"83,00 Kč",Revenue
+14/11/24,Advertising revenue,,"23,00 Kč",Revenue
+14/11/24,Tips,,"137,00 Kč",Revenue
+14/11/24,Marketing,,"358,00 Kč",Expense
+14/11/24,Loan payments,,"1 000,00 Kč",Expense
+14/11/24,Payment processing fees,,"25,00 Kč",Expense
+14/11/24,Food supplies VC,,"745,00 Kč",Expense
+14/11/24,Packaging VC,,"126,00 Kč",Expense
+14/11/24,Sales food,,"668,00 Kč",Revenue
+14/11/24,Sales merchandise,,"42,00 Kč",Revenue
+14/11/24,Advertising revenue,,"40,00 Kč",Revenue
+14/11/24,Tips,,"30,00 Kč",Revenue
+14/11/24,Marketing,,"118,00 Kč",Expense
+14/11/24,Payment processing fees,,"72,00 Kč",Expense
+14/11/24,Food supplies VC,,"324,00 Kč",Expense
+14/11/24,Packaging VC,,"243,00 Kč",Expense
+14/11/24,Sales food,,"901,00 Kč",Revenue
+14/11/24,Sales merchandise,,"118,00 Kč",Revenue
+14/11/24,Advertising revenue,,"35,00 Kč",Revenue
+14/11/24,Tips,,"132,00 Kč",Revenue
+14/11/24,Marketing,,"0,00 Kč",Expense
+14/11/24,Payment processing fees,,"23,00 Kč",Expense
+14/11/24,Food supplies VC,,"573,00 Kč",Expense
+14/11/24,Packaging VC,,"270,00 Kč",Expense
+14/11/24,Sales food,,"359,00 Kč",Revenue
+14/11/24,Sales merchandise,,"83,00 Kč",Revenue
+14/11/24,Advertising revenue,,"33,00 Kč",Revenue
+14/11/24,Tips,,"34,00 Kč",Revenue
+14/11/24,Marketing,,"0,00 Kč",Expense
+14/11/24,Payment processing fees,,"38,00 Kč",Expense
+14/11/24,Food supplies VC,,"539,00 Kč",Expense
+14/11/24,Packaging VC,,"111,00 Kč",Expense
+14/11/24,Sales food,,"938,00 Kč",Revenue
+14/11/24,Sales merchandise,,"29,00 Kč",Revenue
+14/11/24,Advertising revenue,,"19,00 Kč",Revenue
+14/11/24,Tips,,"93,00 Kč",Revenue
+14/11/24,Marketing,,"0,00 Kč",Expense
+14/11/24,Payment processing fees,,"81,00 Kč",Expense
+14/11/24,Food supplies VC,,"345,00 Kč",Expense
+14/11/24,Packaging VC,,"280,00 Kč",Expense
+20/11/24,Sales food,,"724,00 Kč",Revenue
+20/11/24,Sales merchandise,,"101,00 Kč",Revenue
+20/11/24,Advertising revenue,,"26,00 Kč",Revenue
+20/11/24,Tips,,"96,00 Kč",Revenue
+20/11/24,Utilities,,"760,00 Kč",Expense
+20/11/24,Marketing,,"0,00 Kč",Expense
+20/11/24,Payment processing fees,,"65,00 Kč",Expense
+20/11/24,Food supplies VC,,"701,00 Kč",Expense
+20/11/24,Packaging VC,,"196,00 Kč",Expense
+20/11/24,Sales food,,"375,00 Kč",Revenue
+20/11/24,Sales merchandise,,"186,00 Kč",Revenue
+20/11/24,Advertising revenue,,"21,00 Kč",Revenue
+20/11/24,Tips,,"136,00 Kč",Revenue
+20/11/24,Marketing,,"0,00 Kč",Expense
+20/11/24,Payment processing fees,,"39,00 Kč",Expense
+20/11/24,Food supplies VC,,"611,00 Kč",Expense
+20/11/24,Packaging VC,,"272,00 Kč",Expense
+20/11/24,Sales food,,"934,00 Kč",Revenue
+20/11/24,Sales merchandise,,"140,00 Kč",Revenue
+20/11/24,Advertising revenue,,"41,00 Kč",Revenue
+20/11/24,Tips,,"93,00 Kč",Revenue
+20/11/24,Marketing,,"176,00 Kč",Expense
+20/11/24,Payment processing fees,,"83,00 Kč",Expense
+20/11/24,Food supplies VC,,"637,00 Kč",Expense
+20/11/24,Packaging VC,,"116,00 Kč",Expense
+20/11/24,Sales food,,"509,00 Kč",Revenue
+20/11/24,Sales merchandise,,"56,00 Kč",Revenue
+20/11/24,Advertising revenue,,"32,00 Kč",Revenue
+20/11/24,Tips,,"134,00 Kč",Revenue
+20/11/24,Marketing,,"256,00 Kč",Expense
+20/11/24,Payment processing fees,,"42,00 Kč",Expense
+20/11/24,Food supplies VC,,"660,00 Kč",Expense
+20/11/24,Packaging VC,,"177,00 Kč",Expense
+20/11/24,Sales food,,"959,00 Kč",Revenue
+20/11/24,Sales merchandise,,"193,00 Kč",Revenue
+20/11/24,Advertising revenue,,"21,00 Kč",Revenue
+20/11/24,Tips,,"145,00 Kč",Revenue
+20/11/24,Marketing,,"0,00 Kč",Expense
+20/11/24,Payment processing fees,,"24,00 Kč",Expense
+20/11/24,Food supplies VC,,"564,00 Kč",Expense
+20/11/24,Packaging VC,,"150,00 Kč",Expense
+20/11/24,Sales food,,"358,00 Kč",Revenue
+20/11/24,Sales merchandise,,"90,00 Kč",Revenue
+20/11/24,Advertising revenue,,"6,00 Kč",Revenue
+20/11/24,Tips,,"59,00 Kč",Revenue
+20/11/24,Marketing,,"273,00 Kč",Expense
+20/11/24,Payment processing fees,,"92,00 Kč",Expense
+20/11/24,Food supplies VC,,"335,00 Kč",Expense
+20/11/24,Packaging VC,,"60,00 Kč",Expense
+30/11/24,Sales food,,"927,00 Kč",Revenue
+30/11/24,Sales merchandise,,"81,00 Kč",Revenue
+30/11/24,Advertising revenue,,"10,00 Kč",Revenue
+30/11/24,Tips,,"31,00 Kč",Revenue
+30/11/24,Marketing,,"0,00 Kč",Expense
+30/11/24,Payment processing fees,,"53,00 Kč",Expense
+30/11/24,Food supplies VC,,"738,00 Kč",Expense
+30/11/24,Packaging VC,,"186,00 Kč",Expense
+30/11/24,Sales food,,"817,00 Kč",Revenue
+30/11/24,Sales merchandise,,"31,00 Kč",Revenue
+30/11/24,Advertising revenue,,"19,00 Kč",Revenue
+30/11/24,Tips,,"52,00 Kč",Revenue
+30/11/24,Marketing,,"0,00 Kč",Expense
+30/11/24,Payment processing fees,,"80,00 Kč",Expense
+30/11/24,Food supplies VC,,"773,00 Kč",Expense
+30/11/24,Packaging VC,,"128,00 Kč",Expense
+30/11/24,Sales food,,"542,00 Kč",Revenue
+30/11/24,Sales merchandise,,"30,00 Kč",Revenue
+30/11/24,Advertising revenue,,"12,00 Kč",Revenue
+30/11/24,Tips,,"60,00 Kč",Revenue
+30/11/24,Marketing,,"491,00 Kč",Expense
+30/11/24,Payment processing fees,,"84,00 Kč",Expense
+30/11/24,Food supplies VC,,"600,00 Kč",Expense
+30/11/24,Packaging VC,,"149,00 Kč",Expense
+30/11/24,Sales food,,"616,00 Kč",Revenue
+30/11/24,Sales merchandise,,"36,00 Kč",Revenue
+30/11/24,Advertising revenue,,"48,00 Kč",Revenue
+30/11/24,Tips,,"87,00 Kč",Revenue
+30/11/24,Marketing,,"0,00 Kč",Expense
+30/11/24,Payment processing fees,,"73,00 Kč",Expense
+30/11/24,Food supplies VC,,"563,00 Kč",Expense
+30/11/24,Packaging VC,,"245,00 Kč",Expense
+30/11/24,Sales food,,"879,00 Kč",Revenue
+30/11/24,Sales merchandise,,"90,00 Kč",Revenue
+30/11/24,Advertising revenue,,"29,00 Kč",Revenue
+30/11/24,Tips,,"131,00 Kč",Revenue
+30/11/24,Marketing,,"116,00 Kč",Expense
+30/11/24,Payment processing fees,,"60,00 Kč",Expense
+30/11/24,Food supplies VC,,"650,00 Kč",Expense
+30/11/24,Packaging VC,,"56,00 Kč",Expense
+30/11/24,Sales food,,"560,00 Kč",Revenue
+30/11/24,Sales merchandise,,"122,00 Kč",Revenue
+30/11/24,Advertising revenue,,"24,00 Kč",Revenue
+30/11/24,Tips,,"141,00 Kč",Revenue
+30/11/24,Marketing,,"391,00 Kč",Expense
+30/11/24,Payment processing fees,,"56,00 Kč",Expense
+30/11/24,Food supplies VC,,"505,00 Kč",Expense
+30/11/24,Packaging VC,,"271,00 Kč",Expense
+30/11/24,Sales food,,"706,00 Kč",Revenue
+30/11/24,Sales merchandise,,"70,00 Kč",Revenue
+30/11/24,Advertising revenue,,"24,00 Kč",Revenue
+30/11/24,Tips,,"117,00 Kč",Revenue
+30/11/24,Marketing,,"0,00 Kč",Expense
+30/11/24,Payment processing fees,,"51,00 Kč",Expense
+30/11/24,Food supplies VC,,"427,00 Kč",Expense
+30/11/24,Packaging VC,,"181,00 Kč",Expense
+30/11/24,Sales food,,"687,00 Kč",Revenue
+30/11/24,Sales merchandise,,"154,00 Kč",Revenue
+30/11/24,Advertising revenue,,"41,00 Kč",Revenue
+30/11/24,Tips,,"93,00 Kč",Revenue
+30/11/24,Marketing,,"0,00 Kč",Expense
+30/11/24,Payment processing fees,,"72,00 Kč",Expense
+30/11/24,Food supplies VC,,"393,00 Kč",Expense
+30/11/24,Packaging VC,,"128,00 Kč",Expense
+30/11/24,Sales food,,"389,00 Kč",Revenue
+30/11/24,Sales merchandise,,"26,00 Kč",Revenue
+30/11/24,Advertising revenue,,"6,00 Kč",Revenue
+30/11/24,Tips,,"100,00 Kč",Revenue
+30/11/24,Marketing,,"0,00 Kč",Expense
+30/11/24,Payment processing fees,,"97,00 Kč",Expense
+30/11/24,Food supplies VC,,"635,00 Kč",Expense
+30/11/24,Packaging VC,,"98,00 Kč",Expense
+30/11/24,Sales food,,"490,00 Kč",Revenue
+30/11/24,Sales merchandise,,"87,00 Kč",Revenue
+30/11/24,Advertising revenue,,"42,00 Kč",Revenue
+30/11/24,Tips,,"115,00 Kč",Revenue
+30/11/24,Marketing,,"0,00 Kč",Expense
+30/11/24,Payment processing fees,,"75,00 Kč",Expense
+30/11/24,Food supplies VC,,"436,00 Kč",Expense
+30/11/24,Packaging VC,,"263,00 Kč",Expense
+1/12/24,Sales food,,"761,00 Kč",Revenue
+1/12/24,Sales merchandise,,"87,00 Kč",Revenue
+1/12/24,Advertising revenue,,"10,00 Kč",Revenue
+1/12/24,Tips,,"35,00 Kč",Revenue
+1/12/24,Rent,,"3 000,00 Kč",Expense
+1/12/24,Salaries & Wages,,"4 044,00 Kč",Expense
+1/12/24,Marketing,,"0,00 Kč",Expense
+1/12/24,Payment processing fees,,"96,00 Kč",Expense
+1/12/24,Food supplies VC,,"416,00 Kč",Expense
+1/12/24,Packaging VC,,"291,00 Kč",Expense
+1/12/24,Sales food,,"834,00 Kč",Revenue
+1/12/24,Sales merchandise,,"56,00 Kč",Revenue
+1/12/24,Advertising revenue,,"31,00 Kč",Revenue
+1/12/24,Tips,,"27,00 Kč",Revenue
+1/12/24,Marketing,,"0,00 Kč",Expense
+1/12/24,Payment processing fees,,"51,00 Kč",Expense
+1/12/24,Food supplies VC,,"590,00 Kč",Expense
+1/12/24,Packaging VC,,"95,00 Kč",Expense
+1/12/24,Sales food,,"725,00 Kč",Revenue
+1/12/24,Sales merchandise,,"65,00 Kč",Revenue
+1/12/24,Advertising revenue,,"24,00 Kč",Revenue
+1/12/24,Tips,,"42,00 Kč",Revenue
+1/12/24,Marketing,,"475,00 Kč",Expense
+1/12/24,Payment processing fees,,"74,00 Kč",Expense
+1/12/24,Food supplies VC,,"517,00 Kč",Expense
+1/12/24,Packaging VC,,"186,00 Kč",Expense
+1/12/24,Sales food,,"657,00 Kč",Revenue
+1/12/24,Sales merchandise,,"83,00 Kč",Revenue
+1/12/24,Advertising revenue,,"14,00 Kč",Revenue
+1/12/24,Tips,,"53,00 Kč",Revenue
+1/12/24,Marketing,,"449,00 Kč",Expense
+1/12/24,Payment processing fees,,"92,00 Kč",Expense
+1/12/24,Food supplies VC,,"462,00 Kč",Expense
+1/12/24,Packaging VC,,"190,00 Kč",Expense
+1/12/24,Sales food,,"325,00 Kč",Revenue
+1/12/24,Sales merchandise,,"181,00 Kč",Revenue
+1/12/24,Advertising revenue,,"47,00 Kč",Revenue
+1/12/24,Tips,,"130,00 Kč",Revenue
+1/12/24,Marketing,,"0,00 Kč",Expense
+1/12/24,Payment processing fees,,"55,00 Kč",Expense
+1/12/24,Food supplies VC,,"413,00 Kč",Expense
+1/12/24,Packaging VC,,"119,00 Kč",Expense
+1/12/24,Sales food,,"477,00 Kč",Revenue
+1/12/24,Sales merchandise,,"161,00 Kč",Revenue
+1/12/24,Advertising revenue,,"12,00 Kč",Revenue
+1/12/24,Tips,,"141,00 Kč",Revenue
+1/12/24,Marketing,,"0,00 Kč",Expense
+1/12/24,Payment processing fees,,"75,00 Kč",Expense
+1/12/24,Food supplies VC,,"700,00 Kč",Expense
+1/12/24,Packaging VC,,"152,00 Kč",Expense
+1/12/24,Sales food,,"812,00 Kč",Revenue
+1/12/24,Sales merchandise,,"51,00 Kč",Revenue
+1/12/24,Advertising revenue,,"38,00 Kč",Revenue
+1/12/24,Tips,,"52,00 Kč",Revenue
+1/12/24,Marketing,,"0,00 Kč",Expense
+1/12/24,Payment processing fees,,"73,00 Kč",Expense
+1/12/24,Food supplies VC,,"409,00 Kč",Expense
+1/12/24,Packaging VC,,"97,00 Kč",Expense
+1/12/24,Sales food,,"320,00 Kč",Revenue
+1/12/24,Sales merchandise,,"135,00 Kč",Revenue
+1/12/24,Advertising revenue,,"31,00 Kč",Revenue
+1/12/24,Tips,,"21,00 Kč",Revenue
+1/12/24,Marketing,,"0,00 Kč",Expense
+1/12/24,Payment processing fees,,"99,00 Kč",Expense
+1/12/24,Food supplies VC,,"205,00 Kč",Expense
+1/12/24,Packaging VC,,"186,00 Kč",Expense
+9/12/24,Sales food,,"467,00 Kč",Revenue
+9/12/24,Sales merchandise,,"44,00 Kč",Revenue
+9/12/24,Advertising revenue,,"4,00 Kč",Revenue
+9/12/24,Tips,,"48,00 Kč",Revenue
+9/12/24,Marketing,,"0,00 Kč",Expense
+9/12/24,Payment processing fees,,"85,00 Kč",Expense
+9/12/24,Food supplies VC,,"717,00 Kč",Expense
+9/12/24,Packaging VC,,"69,00 Kč",Expense
+9/12/24,Sales food,,"422,00 Kč",Revenue
+9/12/24,Sales merchandise,,"27,00 Kč",Revenue
+9/12/24,Advertising revenue,,"25,00 Kč",Revenue
+9/12/24,Tips,,"78,00 Kč",Revenue
+9/12/24,Marketing,,"0,00 Kč",Expense
+9/12/24,Loan payments,,"1 000,00 Kč",Expense
+9/12/24,Payment processing fees,,"81,00 Kč",Expense
+9/12/24,Food supplies VC,,"315,00 Kč",Expense
+9/12/24,Packaging VC,,"122,00 Kč",Expense
+9/12/24,Sales food,,"518,00 Kč",Revenue
+9/12/24,Sales merchandise,,"120,00 Kč",Revenue
+9/12/24,Advertising revenue,,"2,00 Kč",Revenue
+9/12/24,Tips,,"88,00 Kč",Revenue
+9/12/24,Marketing,,"0,00 Kč",Expense
+9/12/24,Payment processing fees,,"28,00 Kč",Expense
+9/12/24,Food supplies VC,,"545,00 Kč",Expense
+9/12/24,Packaging VC,,"241,00 Kč",Expense
+9/12/24,Sales food,,"664,00 Kč",Revenue
+9/12/24,Sales merchandise,,"131,00 Kč",Revenue
+9/12/24,Advertising revenue,,"16,00 Kč",Revenue
+9/12/24,Tips,,"79,00 Kč",Revenue
+9/12/24,Marketing,,"0,00 Kč",Expense
+9/12/24,Payment processing fees,,"69,00 Kč",Expense
+9/12/24,Food supplies VC,,"242,00 Kč",Expense
+9/12/24,Packaging VC,,"87,00 Kč",Expense
+9/12/24,Sales food,,"805,00 Kč",Revenue
+9/12/24,Sales merchandise,,"169,00 Kč",Revenue
+9/12/24,Advertising revenue,,"8,00 Kč",Revenue
+9/12/24,Tips,,"77,00 Kč",Revenue
+9/12/24,Marketing,,"0,00 Kč",Expense
+9/12/24,Payment processing fees,,"72,00 Kč",Expense
+9/12/24,Food supplies VC,,"607,00 Kč",Expense
+9/12/24,Packaging VC,,"91,00 Kč",Expense
+9/12/24,Sales food,,"642,00 Kč",Revenue
+9/12/24,Sales merchandise,,"183,00 Kč",Revenue
+9/12/24,Advertising revenue,,"27,00 Kč",Revenue
+9/12/24,Tips,,"106,00 Kč",Revenue
+9/12/24,Marketing,,"0,00 Kč",Expense
+9/12/24,Payment processing fees,,"71,00 Kč",Expense
+9/12/24,Food supplies VC,,"333,00 Kč",Expense
+9/12/24,Packaging VC,,"139,00 Kč",Expense
+9/12/24,Sales food,,"813,00 Kč",Revenue
+9/12/24,Sales merchandise,,"20,00 Kč",Revenue
+9/12/24,Advertising revenue,,"8,00 Kč",Revenue
+9/12/24,Tips,,"126,00 Kč",Revenue
+9/12/24,Utilities,,"541,00 Kč",Expense
+9/12/24,Marketing,,"412,00 Kč",Expense
+9/12/24,Payment processing fees,,"50,00 Kč",Expense
+9/12/24,Food supplies VC,,"433,00 Kč",Expense
+9/12/24,Packaging VC,,"256,00 Kč",Expense
+16/12/24,Sales food,,"598,00 Kč",Revenue
+16/12/24,Sales merchandise,,"58,00 Kč",Revenue
+16/12/24,Advertising revenue,,"5,00 Kč",Revenue
+16/12/24,Tips,,"109,00 Kč",Revenue
+16/12/24,Marketing,,"0,00 Kč",Expense
+16/12/24,Payment processing fees,,"46,00 Kč",Expense
+16/12/24,Food supplies VC,,"668,00 Kč",Expense
+16/12/24,Packaging VC,,"100,00 Kč",Expense
+16/12/24,Sales food,,"487,00 Kč",Revenue
+16/12/24,Sales merchandise,,"64,00 Kč",Revenue
+16/12/24,Advertising revenue,,"24,00 Kč",Revenue
+16/12/24,Tips,,"112,00 Kč",Revenue
+16/12/24,Marketing,,"279,00 Kč",Expense
+16/12/24,Payment processing fees,,"99,00 Kč",Expense
+16/12/24,Food supplies VC,,"483,00 Kč",Expense
+16/12/24,Packaging VC,,"72,00 Kč",Expense
+16/12/24,Sales food,,"357,00 Kč",Revenue
+16/12/24,Sales merchandise,,"23,00 Kč",Revenue
+16/12/24,Advertising revenue,,"20,00 Kč",Revenue
+16/12/24,Tips,,"49,00 Kč",Revenue
+16/12/24,Marketing,,"0,00 Kč",Expense
+16/12/24,Payment processing fees,,"46,00 Kč",Expense
+16/12/24,Food supplies VC,,"316,00 Kč",Expense
+16/12/24,Packaging VC,,"50,00 Kč",Expense
+16/12/24,Sales food,,"831,00 Kč",Revenue
+16/12/24,Sales merchandise,,"103,00 Kč",Revenue
+16/12/24,Advertising revenue,,"20,00 Kč",Revenue
+16/12/24,Tips,,"110,00 Kč",Revenue
+16/12/24,Marketing,,"0,00 Kč",Expense
+16/12/24,Payment processing fees,,"40,00 Kč",Expense
+16/12/24,Food supplies VC,,"642,00 Kč",Expense
+16/12/24,Packaging VC,,"182,00 Kč",Expense
+16/12/24,Sales food,,"454,00 Kč",Revenue
+16/12/24,Sales merchandise,,"115,00 Kč",Revenue
+16/12/24,Advertising revenue,,"18,00 Kč",Revenue
+16/12/24,Tips,,"55,00 Kč",Revenue
+16/12/24,Marketing,,"0,00 Kč",Expense
+16/12/24,Payment processing fees,,"65,00 Kč",Expense
+16/12/24,Food supplies VC,,"254,00 Kč",Expense
+16/12/24,Packaging VC,,"50,00 Kč",Expense
+16/12/24,Sales food,,"500,00 Kč",Revenue
+16/12/24,Sales merchandise,,"104,00 Kč",Revenue
+16/12/24,Advertising revenue,,"32,00 Kč",Revenue
+16/12/24,Tips,,"71,00 Kč",Revenue
+16/12/24,Marketing,,"0,00 Kč",Expense
+16/12/24,Payment processing fees,,"25,00 Kč",Expense
+16/12/24,Food supplies VC,,"563,00 Kč",Expense
+16/12/24,Packaging VC,,"270,00 Kč",Expense
+16/12/24,Sales food,,"908,00 Kč",Revenue
+16/12/24,Sales merchandise,,"83,00 Kč",Revenue
+16/12/24,Advertising revenue,,"32,00 Kč",Revenue
+16/12/24,Tips,,"143,00 Kč",Revenue
+16/12/24,Marketing,,"0,00 Kč",Expense
+16/12/24,Payment processing fees,,"38,00 Kč",Expense
+16/12/24,Food supplies VC,,"642,00 Kč",Expense
+16/12/24,Packaging VC,,"62,00 Kč",Expense
+23/12/24,Sales food,,"834,00 Kč",Revenue
+23/12/24,Sales merchandise,,"42,00 Kč",Revenue
+23/12/24,Advertising revenue,,"22,00 Kč",Revenue
+23/12/24,Tips,,"73,00 Kč",Revenue
+23/12/24,Marketing,,"0,00 Kč",Expense
+23/12/24,Payment processing fees,,"90,00 Kč",Expense
+23/12/24,Food supplies VC,,"346,00 Kč",Expense
+23/12/24,Packaging VC,,"120,00 Kč",Expense
+23/12/24,Sales food,,"540,00 Kč",Revenue
+23/12/24,Sales merchandise,,"114,00 Kč",Revenue
+23/12/24,Advertising revenue,,"3,00 Kč",Revenue
+23/12/24,Tips,,"68,00 Kč",Revenue
+23/12/24,Marketing,,"138,00 Kč",Expense
+23/12/24,Payment processing fees,,"56,00 Kč",Expense
+23/12/24,Food supplies VC,,"295,00 Kč",Expense
+23/12/24,Packaging VC,,"126,00 Kč",Expense
+23/12/24,Sales food,,"718,00 Kč",Revenue
+23/12/24,Sales merchandise,,"62,00 Kč",Revenue
+23/12/24,Advertising revenue,,"22,00 Kč",Revenue
+23/12/24,Tips,,"51,00 Kč",Revenue
+23/12/24,Marketing,,"0,00 Kč",Expense
+23/12/24,Payment processing fees,,"42,00 Kč",Expense
+23/12/24,Food supplies VC,,"279,00 Kč",Expense
+23/12/24,Packaging VC,,"147,00 Kč",Expense
+23/12/24,Sales food,,"950,00 Kč",Revenue
+23/12/24,Sales merchandise,,"168,00 Kč",Revenue
+23/12/24,Advertising revenue,,"5,00 Kč",Revenue
+23/12/24,Tips,,"71,00 Kč",Revenue
+23/12/24,Marketing,,"115,00 Kč",Expense
+23/12/24,Payment processing fees,,"39,00 Kč",Expense
+23/12/24,Food supplies VC,,"320,00 Kč",Expense
+23/12/24,Packaging VC,,"261,00 Kč",Expense
+23/12/24,Sales food,,"379,00 Kč",Revenue
+23/12/24,Sales merchandise,,"63,00 Kč",Revenue
+23/12/24,Advertising revenue,,"39,00 Kč",Revenue
+23/12/24,Tips,,"58,00 Kč",Revenue
+23/12/24,Marketing,,"153,00 Kč",Expense
+23/12/24,Payment processing fees,,"40,00 Kč",Expense
+23/12/24,Food supplies VC,,"542,00 Kč",Expense
+23/12/24,Packaging VC,,"98,00 Kč",Expense
