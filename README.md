@@ -52,3 +52,5 @@ There are two ways to prepare your data:
 
 Once uploaded, you can enter your business information in the sidebar. This information will appear on the cover page of the generated PDF report.
 <img width="1372" alt="Screenshot 2025-02-27 at 17 30 30" src="https://github.com/user-attachments/assets/74715bca-1c6c-42af-a34e-5cb54d334267" />
+
+*PDF formatting is a work in progress. Future updates will improve the layout!*
