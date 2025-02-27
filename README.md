@@ -1,6 +1,7 @@
 # 📊 Automated Financial Report Generator
 
 Generate **professional** financial reports from CSV files, including:
+
 ✅ **Revenue & Expense breakdowns**  
 ✅ **Profit Trends**  
 ✅ **Custom PDF reports**  
