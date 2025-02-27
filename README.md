@@ -41,8 +41,14 @@ If you prefer using Google Sheets, make a copy of this template to use:
 🔗 [Google Sheets Template](https://docs.google.com/spreadsheets/d/1L0jB_Ak1wa4ZXR2SDn82f3fSQEhaaV1zmMp4ow8fI-c/edit?usp=sharing)
 
 ## 📸 Screenshots
-This is how my app initially looks :D. 
+Here's how the app looks when you first open it! 😃
 <img width="1373" alt="Screenshot 2025-02-27 at 17 27 02" src="https://github.com/user-attachments/assets/3a7842b5-6f13-441a-8a95-4a0f2ca11f02" />
 
-You simply have to upload a CSV file with the same structure seen as the sample_data.csv. You can either change the file format of the template.xlsx to CSV after filling it up, or make a copy of the Google Sheets template attached to this README and dowload it as a CSV file. After, you can put your business information on the sidebar, so this information can appear in the portrait of the PDF that will be generated.
+You simply need to upload a CSV file following the same structure as sample_data.csv.
+
+There are two ways to prepare your data:
+1️⃣ Use template.xlsx, fill it out, and convert it to CSV.
+2️⃣ Make a copy of the Google Sheets template (linked in this README), then download it as a CSV file.
+
+Once uploaded, you can enter your business information in the sidebar. This information will appear on the cover page of the generated PDF report.
 <img width="1372" alt="Screenshot 2025-02-27 at 17 30 30" src="https://github.com/user-attachments/assets/74715bca-1c6c-42af-a34e-5cb54d334267" />
