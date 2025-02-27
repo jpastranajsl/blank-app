@@ -1,18 +1,26 @@
-# 🎈 Blank app template
+# 📊 Automated Financial Report Generator
 
-A simple Streamlit app template for you to modify!
+Generate **professional** financial reports from CSV files, including:
+✅ **Revenue & Expense breakdowns**  
+✅ **Profit Trends**  
+✅ **Custom PDF reports**  
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
+## 🚀 Features
+- Upload a **financial CSV file** or use a **Google Sheets template**.
+- **Visualize revenue vs. expenses** in easy-to-read charts.
+- **Download a structured PDF report** with financial insights.
+- Simple **Streamlit UI** (no coding required for users).
 
-### How to run it on your own machine
+---
 
-1. Install the requirements
+## 🔧 Installation Guide
 
+### 1️⃣ Install Dependencies
+```bash
+pip install -r requirements.txt
    ```
-   $ pip install -r requirements.txt
-   ```
 
-2. Run the app
+### 2️⃣ Run the App
 
    ```
    $ streamlit run streamlit_app.py
